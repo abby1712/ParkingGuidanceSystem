@@ -7,7 +7,7 @@ Demonstration Video :
 
 # VIDEO LINK
 <a href="https://youtu.be/Ylt108M4sy0">
-    <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/youtube_button_icon_151827.png" style="max-width: 20px; max-height: 20px;"></img>
+    <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/youtube_button_icon_151827.png" style="max-width: 7px; max-height: 7px;"></img>
 </a>
 
 <br>
