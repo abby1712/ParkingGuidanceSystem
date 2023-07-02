@@ -1,6 +1,6 @@
 # ParkingGuidanceSystem By Abhira A.I
 
-<img width="658" alt="LOGO" src="https://github.com/abby1712/ParkingGuidanceSystem/assets/72368959/2fd444a1-b95f-4ead-9ad5-4b6dc90c5ea3">
+<img width="200" alt="LOGO" src="https://github.com/abby1712/ParkingGuidanceSystem/assets/72368959/2fd444a1-b95f-4ead-9ad5-4b6dc90c5ea3">
 
 
 Demonstration Video : 
